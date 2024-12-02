@@ -1,0 +1,61 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header {
+    background-color:#F5DEB3;
+    color: #583f0efa;
+    padding: 15px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #583f0efa;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+    color: #583f0efa;
+}
+
+.produk{
+    align-items: center; 
+}
+
+.produk-item {
+    border: 1px solid #583f0efa;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.gambar111{
+    width: 150px;
+    height: 150px;
+}

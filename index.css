@@ -1,0 +1,26 @@
+*{
+  background-color: beige;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+main{
+    text-align: center;
+}
+
+h1{
+  color: #03010a;
+}
+
+ul li {
+  margin-bottom: 50px;
+  border: 15px solid #5c5c5c;
+}
+
+.gambar999{
+  width:750px ;
+  height: 500px;
+}
